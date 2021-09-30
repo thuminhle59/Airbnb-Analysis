@@ -24,7 +24,7 @@ This project was done with contributions from 4 members in 2 weeks from collecti
 3. What are the price range of the 3 location, are there any relationship between the price and rating, room type or room facilities
 4. What is the main rating score for each of the top 3 locations? What and how every rating criterion performs itself in the dataset? How is the comparison among the top 3?
 
-Finally, which location is the best in general when considering all 4 aspects?
+Finally, which location is the best when considering all 4 aspects in general?
 
 ### 2. Data Pre-processing
 1. Removing unwanted data
