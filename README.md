@@ -14,3 +14,8 @@ Many preprocessing steps were applied to the raw dataset including: Cleaning, Ch
 3. Preprocessing
 4. EDA
 5. Google Data Studio Report
+
+## Insights
+By analyzing several different aspects of Airbnb listings in 3 central areas Yau Tsim Mong, Wan Chai, Central & Western of Hong Kong, our team was able to provide information about pros and cons of each area in terms of different aspects including Hosts, Services, Property types, Prices, Rating & Reviews.
+
+In order to better assist in searching for an ideal listing, we also plotted a map that takes in input from a tourirst about number of beds, people, room type, etc. which they are looking to stay and outputs the link to the listing on the map
