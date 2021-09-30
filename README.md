@@ -12,7 +12,7 @@ Many data pre-processing steps were applied to the raw dataset including: Cleani
 This project was done with contributions from 4 members in 2 weeks from collecting data, pre-processing, analyzing and presentation on GDS dashboard. Each group member was responsible for 1 aspect of a listing such as Host, Property type, Prices, or Rating & Reviews. The final insights were dispayed on GDS. My task in this project includes all steps of data-analysis pipeline mentioned previously on the Host aspect. On top of that, I also analyzed an additional feature in the data about Amenitites to understand about the services provided in different areas of Hong Kong.
 
 ## Outline
-1. Questions about Goal of the project
+1. Determining Questions for analysis purpose
 2. Data Collecting
 3. Preprocessing
 4. EDA
