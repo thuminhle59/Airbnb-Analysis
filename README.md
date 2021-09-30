@@ -18,7 +18,7 @@ This project was done with contributions from 4 members in 2 weeks from collecti
 4. EDA
 5. Google Data Studio Report
 
-## Main Questions
+### Questions 
 1. Advantages an disadvantages of the different type of listings
 2. Factors that tourists should look out for when booking AirBnB, in terms of hosts
 3. What are the price range of the 3 location, are there any relationship between the price and rating, room type or room facilities
@@ -26,7 +26,13 @@ This project was done with contributions from 4 members in 2 weeks from collecti
 
 Finally, which location is the best in general when considering all 4 aspects?
 
-## Insights
+### Data Pre-processing
+1. Removing unwanted data
+2. Changing data type and dealing with missing data
+3. Checking duplications, mislabels, and corrupted data
+4. Detecting outliers
+
+### Explorative Data Analysis
 Some examples of my pre-processing and EDA steps:
 
 ![Pre-processing](https://user-images.githubusercontent.com/84905432/135478163-91a15f57-31a9-40ba-9e16-23806b080065.png)
@@ -39,6 +45,10 @@ Some examples of my pre-processing and EDA steps:
 - This plot shows the availability percentage of some of the most common amenities 
 - Wifi and Air Conditioning are provided by almost every listing
 - Most noticable difference is Elevator and Kitchen 
+
+### Google Data Studio Report
+
+![image](https://user-images.githubusercontent.com/84905432/135481566-8932f544-b7d1-4327-9f96-0b4f6472af22.png)
 
 ## Conclusion
 
