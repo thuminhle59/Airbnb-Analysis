@@ -1,5 +1,5 @@
 #  HONGKONG AIRBNB ANALYSIS
-The idea of Hong Kong Airbnb project came from the love of travelling and hope to find insights that might be helpful for future tourists when it comes to looking for an ideal place to live during a vacation
+The idea of Hong Kong Airbnb project came from the love of travelling and hope to find insights that might be helpful for future tourists when it comes to looking for an ideal place to stay during a vacation.
 
 Link to Google Data Studio Report: https://datastudio.google.com/s/vvwHSmZbE78
 
