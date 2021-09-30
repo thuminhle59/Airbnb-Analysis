@@ -19,6 +19,18 @@ This project was done with contributions from 4 members in 2 weeks from collecti
 5. Google Data Studio Report
 
 ## Insights
+
+![Amenities](https://user-images.githubusercontent.com/84905432/135466115-9cc812d3-ed8f-4858-9ce6-14406f736324.png)
+
+
+
+
+
+
+
+
+
+
 By analyzing several different aspects of Airbnb listings in 3 central areas Yau Tsim Mong, Wan Chai, Central & Western of Hong Kong, our team was able to provide information about pros and cons of each area in terms of different aspects including Hosts, Services, Property types, Prices, Rating & Reviews.
 
 In order to better assist in searching for an ideal listing, we also plotted a map that takes in input from a tourirst about number of beds, people, room type, etc. which they are looking to stay and outputs the link to the listing on the map
