@@ -5,7 +5,7 @@ Link to Google Data Studio Report: https://datastudio.google.com/s/vvwHSmZbE78
 
 ## Dataset
 The data was sourced from Inside Airbnb website http://insideairbnb.com/get-the-data.html.
-The main dataset that was used for this project named "Detailed listing data" under Hong Kong area in the website, which comprised of over 10000 listings.
+The main dataset that was used for this project is named "Detailed listing data" under Hong Kong area in the website, which comprises of over 10000 listings.
 Many data pre-processing steps were applied to the raw dataset including: Cleaning, Changing data type, Working with missing data, Checking duplications, mislabeled and corrupted data, Detecting outliers.
 
 ## Project Description
