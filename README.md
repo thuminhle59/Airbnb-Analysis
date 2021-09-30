@@ -26,7 +26,9 @@ This project was done with contributions from 4 members in 2 weeks from collecti
 
 Finally, which location is the best in general when considering all 4 aspects?
 
-### Insights
+## Insights
+Some examples of my pre-processing and EDA steps:
+
 ![Pre-processing](https://user-images.githubusercontent.com/84905432/135478163-91a15f57-31a9-40ba-9e16-23806b080065.png)
 
 - There were > 1000 missing values in both "Host_response_time" and "Host_response_rate" columns
