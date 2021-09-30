@@ -38,7 +38,7 @@ Some examples of my pre-processing and EDA steps:
 ![Pre-processing](https://user-images.githubusercontent.com/84905432/135478163-91a15f57-31a9-40ba-9e16-23806b080065.png)
 
 - There were > 1000 missing values in both "Host_response_time" and "Host_response_rate" columns
-- Those missing values were filled in based on whether the hosts are superhost or not, the mean values were computed for superhost and not-superhost groups and fill in correspondingly
+- Those missing values were filled in based on whether the hosts are superhost or not, the mean values were computed for superhost and not-superhost groups and filled in correspondingly
 
 ![Amenities](https://user-images.githubusercontent.com/84905432/135466115-9cc812d3-ed8f-4858-9ce6-14406f736324.png)
 
