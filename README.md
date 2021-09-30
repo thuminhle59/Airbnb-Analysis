@@ -8,7 +8,7 @@ The data was sourced from Inside Airbnb website http://insideairbnb.com/get-the-
 The main dataset that was used for this project named "Detailed listing data" under Hong Kong area in the website, which comprised of over 10000 listings.
 Many data pre-processing steps were applied to the raw dataset including: Cleaning, Changing data type, Working with missing data, Checking duplications, mislabeled and corrupted data, Detecting outliers.
 
-# Project Description
+## Project Description
 This project was done with contributions from 4 members in 2 weeks from collecting data, pre-processing, analyzing and presentation on GDS dashboard. Each group member was responsible for 1 aspect of a listing such as Host, Property type, Prices, or Rating & Reviews. The final insights were dispayed on GDS. My task in this project includes all steps of data-analysis pipeline mentioned previously on the Host aspect. On top of that, I also analyzed an additional feature in the data about Amenitites to understand about the services provided in different areas of Hong Kong.
 
 ## Outline
